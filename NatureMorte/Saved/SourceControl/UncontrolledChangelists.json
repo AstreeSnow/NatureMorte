@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/M_PremierMaterial.uasset",
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/M_Rough.uasset",
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/M_Metal.uasset",
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/M_Specular.uasset",
@@ -158,7 +157,11 @@
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/__ExternalActors__/Untitled/E/OR/MVD5BXS363F3VMDP8C754O.uasset",
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/__ExternalActors__/Untitled/8/B5/AROZZ7UCYA542XHMK1XP14.uasset",
 				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/__ExternalActors__/Untitled/B/BL/X6FGW44TGGB25P2IP6BK25.uasset",
-				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/Untitled.umap"
+				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/Untitled.umap",
+				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/MapNatureMorte.umap",
+				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/materials/Pelouse.uasset",
+				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/materials/M_Pelouse.uasset",
+				"C:/Users/calliope.meyer/Documents/GitHub/NatureMorte/NatureMorte/Content/MaterialExercice/M_PremierMaterial.uasset"
 			]
 		}
 	]
